@@ -15,7 +15,8 @@ which is inherently a political in nature.
 
 ## Research Questions
 
-What makes a 
+How much of a person's political identity depends on their trust?
+Since trust in institutions is at an all time low in the past decade, the motivation is to learn about what value it holds in the political lives of Americans 
 
 ## Method 
 
