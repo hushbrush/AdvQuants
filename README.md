@@ -1,32 +1,30 @@
-# AdvQuants
-
-Final presentation format for Thursday
-I'm looking forward to your presentations on Thursday! Please see specifications below. 
-Student Presentation Format (5–7 minutes max)
-Your presentation must be clear and focused. Stick to the structure below and practice to stay within time.
-
-Introduction (30–60 seconds)
-
-What is your topic and why does it matter?
+# What You Trust Is Who You Are: Predicting Political Ideology Using InstitutionalConfidence
 
 
+I’m trying to learn whether despite institutional trust levels being at al all time low in the
+recent decades, trust in certain institutions is an indication of political leanings.
+It is important because the relationship between certain institutions and political leaning
+could affect the federal funding of those institutions(eg. the recent Harvard debacle).
+Further, certain institutions like the press, which are considered pillars of democracy,
+would ideally indicate whether a society believes itself to uphold a democracy or not,
+which is inherently a political in nature.
 
 
 
 
-Research Questions (30 seconds)
 
-What were the key questions or issues you set out to explore?
+## Research Questions
 
-Method (1 minute)
+What makes a 
 
-Briefly describe how you approached the topic (data used, case studies, literature review, etc.)
+## Method 
 
-Key Findings (2–3 minutes)
+I looked at all the 'trust in' variables--13 of them, and dummy coded to the highest value. Then I also dummy coded whether someone thinks of themselves as a liberal or a conservative
+<img width="744" alt="clean_data" src="https://github.com/user-attachments/assets/81673dbc-0eda-401e-9cb0-00ac20d5fb63" />
 
-What did you learn?
+## Key Findings 
+ 
 
-Be clear, specific, and highlight 2–3 main takeaways.
 
 Conclusion (1 minute)
 
