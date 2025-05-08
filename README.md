@@ -36,7 +36,8 @@ Then I tried a couple of methods--
 2. Logit:
 ![auc_logstic](https://github.com/user-attachments/assets/1e0f1127-184f-430a-9f4e-b326a4d52b8f)
 
-3. ![RandomForests_auc](https://github.com/user-attachments/assets/ba03fd9e-e5c9-497b-86c1-b31739e28419)
+3. Random Forests:
+   ![RandomForests_auc](https://github.com/user-attachments/assets/ba03fd9e-e5c9-497b-86c1-b31739e28419)
 
 Conclusion (1 minute)
 
