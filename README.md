@@ -46,6 +46,7 @@ Then I tried a couple of methods--
 4. Trust in press is interesting because it has definitely changed a lot in the past 10 years
 
 ![Americans-Trust-in-Mass-Media-1972-2024](https://github.com/user-attachments/assets/45f29efe-7a7f-46fa-b6de-06237aa15bd2)
+![Partisans-Trust-in-Mass-Media-1972-2024](https://github.com/user-attachments/assets/f6f5e5f2-9192-4356-ac74-f0a34a892b70)
 
 Conclusion (1 minute)
 
