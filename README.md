@@ -22,8 +22,13 @@ Since trust in institutions is at an all time low in the past decade, the motiva
 
 ## Method 
 
-I looked at all the 'trust in' variables--13 of them, and dummy coded to the highest value. Then I also dummy coded whether someone thinks of themselves as a liberal or a conservative
+I looked at all the 'trust in' variables--13 of them, and dummy coded to the highest value. Then I also dummy coded whether someone thinks of themselves as a liberal or a conservative.
 <img width="744" alt="clean_data" src="https://github.com/user-attachments/assets/81673dbc-0eda-401e-9cb0-00ac20d5fb63" />
+
+In Literature Review--
+https://gss.norc.org/content/dam/gss/get-documentation/pdf/reports/social-change-reports/SC54%20Trends%20in%20Confidence%20in%20Institutions.pdf
+<img width="774" alt="Screenshot 2025-05-08 at 3 52 24 PM" src="https://github.com/user-attachments/assets/231e614e-81ea-44bc-b8f5-6a4455c3961c" />
+
 
 Then I tried a couple of methods--
 
@@ -43,12 +48,14 @@ Then I tried a couple of methods--
 1. Trust in exec_branch_of_fed_govt in 2016 made you most likely to be liberal- explains about 31%--checks out, because back then there was a Democrat President. 
 2. Trust in Organised Religion, Military, and Major companies makes you more likely to be a Conservative.
 3. Trust in Scientific Community, Press, and Organized labour come in next.
-4. Trust in press is interesting because it has definitely changed a lot in the past 10 years
+4. Introducing controls for demographic factors changed the model: Race('white' or 'other') and sex were not statistically significant, but confidence in press becamse insignificant. 
+5. Trust in press is interesting because it has definitely changed a lot in the past 10 years
 
 ![Americans-Trust-in-Mass-Media-1972-2024](https://github.com/user-attachments/assets/45f29efe-7a7f-46fa-b6de-06237aa15bd2)
 ![Partisans-Trust-in-Mass-Media-1972-2024](https://github.com/user-attachments/assets/f6f5e5f2-9192-4356-ac74-f0a34a892b70)
 
-Conclusion (1 minute)
+## Conclusion 
+
 
 So what? Why should we care?
 
