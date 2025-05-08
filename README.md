@@ -26,9 +26,6 @@ I looked at all the 'trust in' variables--13 of them, and dummy coded to the hig
 <img width="744" alt="clean_data" src="https://github.com/user-attachments/assets/81673dbc-0eda-401e-9cb0-00ac20d5fb63" />
 
 Then I tried a couple of methods--
-1. 
-
-## Key Findings 
 
 1. OLS(waste of time because binary output--we learnt this already but I still wanted to try.):
 ![auc_olsFInal](https://github.com/user-attachments/assets/823bb3d0-4e72-4c63-8bae-b332959d7b47)
@@ -39,6 +36,13 @@ Then I tried a couple of methods--
 3. Random Forests:
    ![RandomForests_auc](https://github.com/user-attachments/assets/ba03fd9e-e5c9-497b-86c1-b31739e28419)
 
+
+## Key Findings 
+
+1. Trust in exec_branch_of_fed_govt in 2016 made you most likely to be liberal- explains about 31%
+2. Trust in Organised Religion, Military, and Major companies makes you more likely to be a Conservative.
+
+3. Trust in 
 Conclusion (1 minute)
 
 So what? Why should we care?
