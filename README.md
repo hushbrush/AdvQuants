@@ -57,7 +57,8 @@ Then I tried a couple of methods--
 ![Americans-Trust-in-Mass-Media-1972-2024](https://github.com/user-attachments/assets/45f29efe-7a7f-46fa-b6de-06237aa15bd2)
 ![Partisans-Trust-in-Mass-Media-1972-2024](https://github.com/user-attachments/assets/f6f5e5f2-9192-4356-ac74-f0a34a892b70)
 
-<img width="1728" alt="Screenshot 2025-05-05 at 10 15 54 PM" src="https://github.com/user-attachments/assets/412f4d72-4021-4f89-a7fd-41ffd178d8b3" />
+<img width="1243" alt="Screenshot 2025-05-08 at 6 05 30 PM" src="https://github.com/user-attachments/assets/f3528ba4-009c-4abd-9b21-94ba5e675a6b" />
+
 
 ## Conclusion 
 
