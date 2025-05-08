@@ -56,6 +56,7 @@ Then I tried a couple of methods--
 
 ## Conclusion 
 
+Ideally, in a democracy, everybody, regardless of political leaning would have trust in media. So the fact that having faith in the media is indicative of a DEMOCRATIC political leaning, though unfortunate, makes a lot of sense. 
 
 So what? Why should we care?
 
