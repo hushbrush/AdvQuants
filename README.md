@@ -1,4 +1,4 @@
-# What You Trust Is Who You Are: Predicting Political Ideology Using InstitutionalConfidence
+# What You Trust Is Who You Are: Predicting Political Ideology Using Institutional Confidence
 
 
 I’m trying to learn whether despite institutional trust levels being at al all time low in the
