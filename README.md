@@ -33,16 +33,20 @@ Then I tried a couple of methods--
 2. Logit:
 ![auc_logstic](https://github.com/user-attachments/assets/1e0f1127-184f-430a-9f4e-b326a4d52b8f)
 
+
 3. Random Forests:
-   ![RandomForests_auc](https://github.com/user-attachments/assets/ba03fd9e-e5c9-497b-86c1-b31739e28419)
+![RandomForests_auc](https://github.com/user-attachments/assets/ba03fd9e-e5c9-497b-86c1-b31739e28419)
 
 
 ## Key Findings 
 
-1. Trust in exec_branch_of_fed_govt in 2016 made you most likely to be liberal- explains about 31%
+1. Trust in exec_branch_of_fed_govt in 2016 made you most likely to be liberal- explains about 31%--checks out, because back then there was a Democrat President. 
 2. Trust in Organised Religion, Military, and Major companies makes you more likely to be a Conservative.
+3. Trust in Scientific Community, Press, and Organized labour come in next.
+4. Trust in press is interesting because it has definitely changed a lot in the past 10 years
 
-3. Trust in 
+![Americans-Trust-in-Mass-Media-1972-2024](https://github.com/user-attachments/assets/45f29efe-7a7f-46fa-b6de-06237aa15bd2)
+
 Conclusion (1 minute)
 
 So what? Why should we care?
